@@ -1,0 +1,4 @@
+.gitattributes
+*.*
+!eric.dsv
+!eric.moddsv
