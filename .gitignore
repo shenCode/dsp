@@ -2,3 +2,5 @@
 *.*
 !eric.dsv
 !eric.moddsv
+!.gitignore
+!eric.server
